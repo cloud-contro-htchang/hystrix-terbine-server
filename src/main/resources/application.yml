@@ -2,7 +2,7 @@ spring:
   application:
     name: hystrix-terbine-server
 server:
-  port: 8776
+  port: 8778
 security:
   basic:
     enabled: false
